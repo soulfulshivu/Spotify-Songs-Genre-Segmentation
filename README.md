@@ -1,4 +1,4 @@
-# 🎵 Spotify Songs Genre Segmentation Using Machine Learning
+# 🎵 Spotify Songs Genre Segmentation Using Artificial Intelligence
 
 ## 📌 Project Overview
 
