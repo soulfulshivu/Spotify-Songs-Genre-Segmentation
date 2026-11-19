@@ -1,0 +1,34 @@
+## 📊 Results
+
+The Spotify Songs Genre Segmentation project demonstrates the application of Unsupervised Machine Learning techniques to group songs based on their audio characteristics.
+
+The project analyzes various Spotify audio features to identify similarities between songs and discover meaningful clusters with similar musical characteristics.
+
+### Key Results
+
+- Successfully performed data cleaning and preprocessing.
+- Conducted Exploratory Data Analysis (EDA) to understand the distribution of Spotify audio features.
+- Analyzed important musical attributes such as danceability, energy, loudness, acousticness, instrumentalness, valence, and tempo.
+- Applied feature scaling to prepare numerical features for clustering.
+- Used K-Means Clustering to group songs based on their audio characteristics (if implemented).
+- Visualized the generated clusters to understand similarities and differences between song groups.
+- Identified patterns and relationships among different musical features.
+
+### Model Evaluation
+
+The clustering performance can be evaluated using the following metrics:
+
+| Evaluation Metric | Purpose |
+|---|---|
+| Silhouette Score | Measures how well-separated the clusters are |
+| Davies-Bouldin Index | Measures similarity between clusters |
+| Inertia (WCSS) | Measures within-cluster variation |
+| Elbow Method | Helps determine an appropriate number of clusters |
+
+### Conclusion
+
+The project demonstrates how Unsupervised Machine Learning can be used to discover hidden patterns in music datasets and group songs according to their audio characteristics.
+
+The resulting clusters can help understand musical similarities and provide a foundation for developing intelligent music recommendation and playlist organization systems.
+
+**Note:** Actual cluster counts and evaluation scores should be added after running the model.
